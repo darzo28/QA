@@ -1,0 +1,6 @@
+{
+    "id": "productList",
+    "description": "Products list",
+    "type": "array",
+    "items": { "$ref": "JsonSchemas/productSchema.json" }
+}
